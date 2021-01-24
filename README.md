@@ -11,9 +11,9 @@ Therefore, cd to the main directory, then run the following command
 #### Generate API_Key in [wolframalpha](https://developer.wolframalpha.com/portal/myapps/index.html "wolframalpha")
 1. First sign up for free
 2. Generate AppID
-3. I recommend not to use this ID directly inside code, but store it in environmental variable or configuration file.
+3. I recommend not to use this ID directly inside code, but store it as an environment variable or in configuration file.
     (I have used the second option for this code, so if you are running my code, then please create a config.json file
-    within the same folder, and copy your AppID under key "api_key")
+    within the same folder, and copy your AppID under key as "api_key")
 
 
 With these settings in hand, you are good to run [pyda.py](https://github.com/chandms/Virtual_Assistant/blob/master/pyda.py)
