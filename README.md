@@ -18,7 +18,6 @@ Therefore, cd to the main directory, then run the following command
 
 With these settings in hand, you are good to run [pyda.py](https://github.com/chandms/Virtual_Assistant/blob/master/pyda.py)
 
-### User will have to type query in the search box, if searchable, then user will be able to see result popup
-### and voice note of the same.
+### User will have to type query in the search box, if searchable, then user will be able to see result popup and voice note of the same.
 1. For searching, I have used wolframalpha, and wikidepia libraries
 2. For voice note, I have used espeak
